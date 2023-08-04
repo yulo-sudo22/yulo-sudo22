@@ -1,9 +1,6 @@
 
 
-
 <h1 align="center">Hi 👋, Call me NeoMachiavelli/Yulo</h1>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=yulo-sudo22&color=green" alt="Profile views" /> </p>
 
 
 
