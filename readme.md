@@ -19,11 +19,4 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" />
-</p>
 
-<p align="center">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=yulo-sudo22&show_icons=true&theme=vision-friendly-dark" alt="Yulo stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yulo-sudo22&layout=compact&theme=vision-friendly-dark" alt="Yulo most languages"/>
-</p>
