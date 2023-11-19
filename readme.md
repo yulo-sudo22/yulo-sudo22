@@ -4,7 +4,7 @@
 
 
 
-- Flutter Developer
+- Learning Typescript
 <br><br>
 
 ## 🛠 &nbsp;Tech Skills
