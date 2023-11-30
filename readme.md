@@ -4,7 +4,7 @@
 
 
 
-- Learning Typescript
+- Excel Programmer 
 <br><br>
 
 ## 🛠 &nbsp;Tech Skills
